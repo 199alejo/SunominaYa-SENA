@@ -1,4 +1,7 @@
 # SunominaYa-SENA
 Este es nuestro proyecto de ADSO para el SENA
-Un cambio pues
+Los integrantes somos:
+Richard Costty González Castro
+Alejandro Portocarrero Sepúlveda
+
 
